@@ -1,0 +1,15 @@
+AI-Autonomous-Navigation/
+│── src/
+│   │── main.py
+│   │── perception.py
+│   │── planning.py
+│   │── control.py
+│
+│── models/
+│   │── (YOLO or any model file)
+│
+│── simulation/
+│   │── simulation.py
+│
+│── requirements.txt
+│── README.md
